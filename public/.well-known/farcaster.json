@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "RemixSplit",
+    "subtitle": "Built with Zara",
+    "description": "RemixSplit is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://0b02e4b862034ea28a60d043961ed633-jlct-gtjun3w3t-vistara.vercel.app",
+    "splashImageUrl": "https://0b02e4b862034ea28a60d043961ed633-jlct-gtjun3w3t-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://0b02e4b862034ea28a60d043961ed633-jlct-gtjun3w3t-vistara.vercel.app/image.png",
+    "tagline": "RemixSplit",
+    "screenshotUrls": [
+      "https://0b02e4b862034ea28a60d043961ed633-jlct-gtjun3w3t-vistara.vercel.app/screenshot.png",
+      "https://0b02e4b862034ea28a60d043961ed633-jlct-gtjun3w3t-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://0b02e4b862034ea28a60d043961ed633-jlct-gtjun3w3t-vistara.vercel.app/api/webhook"
+  }
+}
